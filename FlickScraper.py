@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ## Script to get current Flick Electric Co spot price
 ### Author: Tomas Maggio (tomasmaggio@gmail.com)
 
